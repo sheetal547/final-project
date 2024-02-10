@@ -1,0 +1,5 @@
+//React concepts:
+//1. Components - Functions or Classes that return JSX to be rendered on the page
+//2. Props - Data passed into components from outside of themselves (parent component)
+//3. State - Data stored within a component, used to control how the UI renders itself
+
